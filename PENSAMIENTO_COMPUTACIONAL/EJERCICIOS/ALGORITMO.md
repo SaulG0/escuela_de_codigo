@@ -1,14 +1,22 @@
 # REALIZA UN ALGORITMO SOBRE ALGUNA ACTIVIDAD EN TU VIDA COTIDIANA.
 
-
-
-
-
+# ALGORITMO PARA LEER
+## 1 INICIO
+### 2 ESCOGER UN LIBRO
+### 3 ABRIR EL LIBRO
+### 4 EMPEZAR A LEER
+## FIN
 
 
 # DESARROLLA UN ALGORITMO QUE CALCULE LA EDAD DE UNA PERSONA CON BASE A LA OBTENCION DE SU FECHA DE NACIMIENTO.
 
-
+# ALGORITMO PARA CALCULAR LA EDAD
+## 1 INICIO
+### 2 DECLARAR (FECHA DE NACIMIENTO, FECHA ACTUAL,EDAD)
+### 3 INGRESAR LOS VALORES (FECHA DE NACIMIENTO, FECHA ACTUAL)
+### 4 EDAD= RESTO FECHA DE NACIMIENTO A FECHA ACTUAL
+### 5 MOST5RAR (EDAD)
+## 6 FIN
 
 
 # Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
