@@ -15,7 +15,7 @@ alfanumerica
 
 ¿Qué tipo de dato debe tener una variable para registrar si está lloviendo o no?
 
-booleana
+ logica
 
 ¿Qué tipo de dato debe tener una variable para representar la cantidad de dinero que
 tienes?
