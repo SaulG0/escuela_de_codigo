@@ -11,8 +11,10 @@ Investiga tres lenguajes de programación y enuncia sus características y lo qu
 * Extensiones comunes	java, class, jar, jad y jmod.
 * Licencia	GNU GPL / Java Community Process.
  
-## LENGUAJE 2 ### PHYTON (alto nivel)
+## LENGUAJE 2 
+### PHYTON (alto nivel)
 ![image](https://user-images.githubusercontent.com/104279743/166123777-0c53fb6a-40e2-4d9a-9952-d33cf97c06db.png)
+### Caracteristicas:
 * Apareció en	1991.
 * se utiliza para desarrollar aplicaciones de todo tipo, ejemplos: Instagram, Netflix, Panda 3D, entre otros.
 * Licencia	Python Software Foundation License.
