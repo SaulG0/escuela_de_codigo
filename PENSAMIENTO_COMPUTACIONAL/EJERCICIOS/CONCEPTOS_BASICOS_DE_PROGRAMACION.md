@@ -20,4 +20,7 @@ Investiga tres lenguajes de programación y enuncia sus características y lo qu
 * Licencia	Python Software Foundation License.
 
 ## LENGUAJE 3 ###
-### NODE CODE, RISK
+### ENSAMBLADOR (ASSEMBLY) (bajo perfil)
+* Consiste en un conjunto de mnemónicos que representan instrucciones básicas para los computadores, microprocesadores, microcontroladores y otros circuitos integrados programables.
+* Implementa una representación simbólica de los códigos de máquina binarios.
+* El lenguaje ensamblador es difícilmente portable, es decir, un código escrito para un microprocesador, puede necesitar ser modificado, para poder ser usado en otra máquina distinta. Al cambiar a una máquina con arquitectura diferente, generalmente es necesario reescribirlo completamente.
