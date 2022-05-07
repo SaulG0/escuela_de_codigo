@@ -6,17 +6,15 @@
 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
 
 ### 1 INICIO
-## 2 DECLARAR (M, YD, RES)
+## 2 DECLARAR (M, RES) float
 ## 3 MOSTRAR ("INGRESAR LOS METROS")
 ## 4 ASIGNAR (M)
-## 5 ASIGNAR (YD .9144)
-## 6 RES= (M/YD)
-## 7 MOSTRAR ("LAS YARDAS SON" ,RES)
-### 8 FIN
+## 5 RES= (M*YD)
+## 6 MOSTRAR ("LAS YARDAS SON" ,RES)
+### 7 FIN
 
-![imagen](https://user-images.githubusercontent.com/104279743/167272253-db37c74e-0793-4065-b4ea-aa498810675a.png)
-
-      
+![imagen](https://user-images.githubusercontent.com/104279743/167272494-ee9f6d17-a4d9-426e-a243-a05ffb8df013.png)
+  
     
 
 
