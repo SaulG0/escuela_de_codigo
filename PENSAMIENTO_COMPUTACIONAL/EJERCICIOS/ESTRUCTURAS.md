@@ -8,11 +8,17 @@
   ### 4 ASIGNAR (NUM)
   ### 5 SI NUM<0 ENTONCES
      MOSTRAR ("ES UN NUMERO NEGATIVO")
-     SINO SI NUM>0 ENTONCES
+     FINSI
+  ### 6 SINO SI NUM>0 ENTONCES
      MOSTRAR ("ES UN NUMERO POSITIVO)
      FINSI
-     FINSI
   ### 6 FIN
+  
+  ![imagen](https://user-images.githubusercontent.com/104279743/167274738-d7557d1e-859f-4da7-ba94-cbff479d126e.png)
+
+  
+  ![imagen](https://user-images.githubusercontent.com/104279743/167274690-a53feaf7-303f-4f5c-915a-6fc1962786af.png)
+
   
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 * Un programa que pida una letra y detecte si es una vocal. 
