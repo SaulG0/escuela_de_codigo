@@ -21,6 +21,14 @@
 
   
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+### 1 INICIO
+## 2 DECLRAR (LETRA) INT
+## 3 MOSTRAR ("INGRESE UNA LETRA")
+## 4 Si LETRA="S" Y "N" ENTONCES
+  MOSTRAR ("LETRA CORRECTA")
+  FINSI
+### 5 FIN
+
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
