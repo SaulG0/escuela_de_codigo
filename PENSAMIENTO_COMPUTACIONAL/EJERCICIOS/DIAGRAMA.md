@@ -12,8 +12,8 @@
 ## 5 RES= (M*1.09)
 ## 6 MOSTRAR ("LAS YARDAS SON" ,RES)
 ### 7 FIN
+![imagen](https://user-images.githubusercontent.com/104279743/167272552-78e5b719-d9ba-4b65-bee3-4273b798c97e.png)
 
-![imagen](https://user-images.githubusercontent.com/104279743/167272494-ee9f6d17-a4d9-426e-a243-a05ffb8df013.png)
   
     
 
