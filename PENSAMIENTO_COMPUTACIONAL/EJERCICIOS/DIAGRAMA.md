@@ -9,7 +9,7 @@
 ## 2 DECLARAR (M, RES) float
 ## 3 MOSTRAR ("INGRESAR LOS METROS")
 ## 4 ASIGNAR (M)
-## 5 RES= (M*YD)
+## 5 RES= (M*1.09)
 ## 6 MOSTRAR ("LAS YARDAS SON" ,RES)
 ### 7 FIN
 
