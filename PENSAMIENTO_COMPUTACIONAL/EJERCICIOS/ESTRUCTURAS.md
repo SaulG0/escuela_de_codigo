@@ -3,14 +3,14 @@
 
 * Programa que pida un número y diga si es positivo o negativo
   ## 1 INICIO
-  ### 2 DECLARAR (NUM) FLOAT
-  ### 3 MOSTRAR ("INGRESE UN NUMERO")
-  ### 4 ASIGNAR (NUM)
-  ### 5 SI NUM<0 ENTONCES
-     MOSTRAR ("ES UN NUMERO NEGATIVO")
+  ### 2 declarar (num) float
+  ### 3 mostrar ("Ingrese un numero")
+  ### 4 asignar (num)
+  ### 5 Si num<0 Entonces
+     mostrar ("Es un numero negativo")
      FINSI
-  ### 6 SINO SI NUM>0 ENTONCES
-     MOSTRAR ("ES UN NUMERO POSITIVO)
+  ### 6 Si num>0 Entonces
+     mostrar ("Es un numero positivo")
      FINSI
   ### 6 FIN
   
