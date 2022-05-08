@@ -14,10 +14,9 @@
      FINSI
   ### 6 FIN
   
-  ![imagen](https://user-images.githubusercontent.com/104279743/167274738-d7557d1e-859f-4da7-ba94-cbff479d126e.png)
-
+ ![image](https://user-images.githubusercontent.com/104279743/167319276-1b79470b-ffdc-475d-b68e-9c28da88b842.png)
   
-  ![imagen](https://user-images.githubusercontent.com/104279743/167274690-a53feaf7-303f-4f5c-915a-6fc1962786af.png)
+ ![imagen](https://user-images.githubusercontent.com/104279743/167274690-a53feaf7-303f-4f5c-915a-6fc1962786af.png)
 
   
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
