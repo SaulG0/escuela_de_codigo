@@ -14,7 +14,6 @@
   ### FinSi
   ## 7 FIN
 ![image](https://user-images.githubusercontent.com/104279743/167319276-1b79470b-ffdc-475d-b68e-9c28da88b842.png)
-
 ![imagen](https://user-images.githubusercontent.com/104279743/167274690-a53feaf7-303f-4f5c-915a-6fc1962786af.png)
 
   
@@ -30,6 +29,9 @@
 ## FinSi
 ## FinSi
 ### 6 FIN
+![image](https://user-images.githubusercontent.com/104279743/167320389-75d3bf05-d5ac-46e9-94c9-679833f6560f.png)
+![image](https://user-images.githubusercontent.com/104279743/167320418-810de053-ee90-4ca1-9a22-c44cebd1a1a2.png)
+
 
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
