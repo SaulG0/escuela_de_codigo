@@ -10,7 +10,7 @@
 ## 3 MOSTRAR ("Ingresar metros")
 ## 4 ASIGNAR (m)
 ## 5 res= (m*1.09)
-## 6 MOSTRAR ("Las yardas son" ,RES)
+## 6 MOSTRAR ("Las yardas son" ,res)
 ### 7 FIN
 ![imagen](https://user-images.githubusercontent.com/104279743/167272552-78e5b719-d9ba-4b65-bee3-4273b798c97e.png)
 
