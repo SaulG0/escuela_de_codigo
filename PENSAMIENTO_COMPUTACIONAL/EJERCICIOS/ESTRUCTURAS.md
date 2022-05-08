@@ -7,9 +7,11 @@
   ### 3 mostrar ("Ingrese un numero")
   ### 4 asignar (num)
   ### 5 Si num<0 Entonces 
-  ### mostrar ("Es un numero negativo") FiNSi
+  ### mostrar ("Es un numero negativo") 
+  ### FiNSi
   ### 6 Si num>0 Entonces 
-  ### mostrar ("Es un numero positivo") FiNSi
+  ### mostrar ("Es un numero positivo") 
+  ### FinSi
   ## 7 FIN
 ![image](https://user-images.githubusercontent.com/104279743/167319276-1b79470b-ffdc-475d-b68e-9c28da88b842.png)
 
@@ -18,12 +20,16 @@
   
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
 ### 1 INICIO
-## 2 DECLRAR (LETRA) INT
-## 3 MOSTRAR ("INGRESE UNA LETRA")
-## 4 Si LETRA="S" Y "N" ENTONCES
-  MOSTRAR ("LETRA CORRECTA")
-  FINSI
-### 5 FIN
+## 2 declarar (letra) int
+## 3 mostrar ("ingresa una letra")
+## 4 asignar (letra)
+## 5 Si letra="s" Entonces
+## mostrar ("Letra correcta")
+## SiNo Si letra="n" Entonces
+## mostrar ("Letra correcta")
+## FinSi
+## FinSi
+### 6 FIN
 
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
