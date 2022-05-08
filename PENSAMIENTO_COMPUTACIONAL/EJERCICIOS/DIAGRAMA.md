@@ -7,10 +7,10 @@
 
 ### 1 INICIO
 ## 2 DECLARAR (m, res) float
-## 3 MOSTRAR ("INGRESAR LOS METROS")
-## 4 ASIGNAR (M)
-## 5 RES= (M*1.09)
-## 6 MOSTRAR ("LAS YARDAS SON" ,RES)
+## 3 MOSTRAR ("Ingresar metros")
+## 4 ASIGNAR (m)
+## 5 res= (m*1.09)
+## 6 MOSTRAR ("Las yardas son" ,RES)
 ### 7 FIN
 ![imagen](https://user-images.githubusercontent.com/104279743/167272552-78e5b719-d9ba-4b65-bee3-4273b798c97e.png)
 
