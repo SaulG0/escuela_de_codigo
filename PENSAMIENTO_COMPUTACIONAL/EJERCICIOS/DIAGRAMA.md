@@ -29,3 +29,4 @@
  ## 7 res= (b*h) / 2
  ## 8 mostrar ("El area del triángulo es" ,res)
  ### 9 FIN
+![image](https://user-images.githubusercontent.com/104279743/167318480-4e1ea35e-57c2-4930-be2b-7b0e50657841.png)
