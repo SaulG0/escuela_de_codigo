@@ -6,8 +6,10 @@
   ### 2 declarar (num) float
   ### 3 mostrar ("Ingrese un numero")
   ### 4 asignar (num)
-  ### 5 Si num<0 Entonces mostrar ("Es un numero negativo") FiNSi
-  ### 6 Si num>0 Entonces mostrar ("Es un numero positivo") FiNSi
+  ### 5 Si num<0 Entonces 
+  ### mostrar ("Es un numero negativo") FiNSi
+  ### 6 Si num>0 Entonces 
+  ### mostrar ("Es un numero positivo") FiNSi
   ## 7 FIN
 ![image](https://user-images.githubusercontent.com/104279743/167319276-1b79470b-ffdc-475d-b68e-9c28da88b842.png)
 
