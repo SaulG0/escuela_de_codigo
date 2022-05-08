@@ -20,11 +20,12 @@
 
 3. Realizar el algoritmo y diagrama de flujo de un programa que calcule el área de un triángulo.
 
- 
-
-
-
-
-
-
-
+ ### 1 INICIO
+ ## 2 declarar (b, a, res) float
+ ## 3 mostrar ("Imgresa la base del triangulo")
+ ## 4 asignar (b)
+ ## 5 mostrar ("Ingrsa la altura del triangulo")
+ ## 6 asignar (a)
+ ## 7 res= (b*a) / 2
+ ## 8 mostrar ("El area del triángulo es" ,res)
+ ### 9 FIN
