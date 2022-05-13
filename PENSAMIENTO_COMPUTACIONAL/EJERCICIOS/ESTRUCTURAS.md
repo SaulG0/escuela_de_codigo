@@ -33,7 +33,19 @@
 ![image](https://user-images.githubusercontent.com/104279743/167320418-810de053-ee90-4ca1-9a22-c44cebd1a1a2.png)
 
 
-* Un programa que pida una letra y detecte si es una vocal. 
+* Un programa que pida una letra y detecte si es una vocal.
+### 1 INICIO
+## 2 declarar (letra) int
+## 3 mostrar ("ingrese una letra")
+## 4 asignar (letra)
+## 5 Si letra="a" Entonces mostrar ("Letra correcta") 
+## 6 SiNo Si letra="e" Entonces mostrar ("Letra correcta")
+## 7 SiNo Si letra="i" Entonces mostrar ("Letra correcta")
+## 8 SiNo Si letra="0" Entonces mostrar ("Letra correcta")
+## 9 SiNo Si letra="U" Entonces mostrar ("Letra correcta")
+## 10 FinSi FinSi FinSi FinSi FinSi
+### FIN
+
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
